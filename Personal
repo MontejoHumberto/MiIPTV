@@ -1,0 +1,137 @@
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2FzdGVyLmNhcmFjb2x0dl9pY29uXzE1MTg1MDU5NjBfMDIy/icon.png?w=170&fakeurl=1",Caracol
+
+#EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
+http://tecnotv.club/thet/smartv.php?c=658_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
+https://blackghost.live/play/zufree-506.php?c=312
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/hbo2-logo-01-300x284.png",HBO 2
+https://blackghost.live/play/zufree-506.php?c=310
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg",HBO Signature
+http://ipeteve.com/php/REGIO_PLAY_281119/regio22.php?c=hbosignature&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_family_small.gif",HBO Family
+https://blackghost.live/play/zufree-506.php?c=311
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLus
+https://blackghost.live/play/zufree-506.php?c=309
+#EXTINF:-1,Warner Channel
+https://blackghost.live/play/zufree-506.php?c=359
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png",ESPN
+https://blackghost.live/play/25-506.php?c=1117
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0BbYqNQQTDI/maxresdefault.jpg",ESPN 2
+http://blackghost.live/play/tvghd-506.php?id=espn-2-en-vivo&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
+http://blackghost.live/play/tvghd-506.php?id=espn-3-en-vivo&f=.m3u8
+#EXTINF:-1,Fox Sports
+
+#EXTINF:-1,Fox Sports 2
+
+#EXTINF:-1,Fox Sports 3
+https://blackghost.live/play/tlvall-506.php?c=1394&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",The CW
+https://www.stream2watch.is/frames/live-streaming.mp4
+#EXTINF:-1,TUDN
+https://blackghost.live/play/tlvall-506.php?c=267&f=.m3u8
+#EXTINF:-1,TNT Series
+https://blackghost.live/play/zufree-506.php?c=352
+#EXTINF:-1,TNT
+https://blackghost.live/play/zufree-506.php?c=351
+#EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png?w=300",SyFy
+http://tecnotv.club/thet/smartv.php?c=547_&f=.m3u8
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1,Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1,TLC
+
+#EXTINF:-1,ETBSat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png",Telemusica
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1, ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1, CARTOON NETWORK
+
+#EXTINF:-1, Animal Planet
+https://blackghost.live/play/zufree-506.php?c=259&f=.ts
+#EXTINF:-1, DISCOVERY CHANNEL
+https://blackghost.live/play/zufree-506.php?c=283
+#EXTINF:-1, DISCOVERY TURBO
+https://blackghost.live/play/zufree-506.php?c=286
+#EXTINF:-1, Discovery ID
+https://blackghost.live/play/zufree-506.php?c=321
+#EXTINF:-1, Discovery Science
+https://blackghost.live/318/tvx.php?opcion=xtv29&c=48712
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/topic/espn2#&gid=1&pid=2",Disney Channel
+https://blackghost.live/play/zufree-506.php?c=287
+#EXTINF:-1, Discovery Kids
+https://blackghost.live/318/tvx.php?opcion=xtv33&c=1469
+#EXTINF:-1, Disney Junior
+https://blackghost.live/play/zufree-506.php?c=288
+#EXTINF:-1, Disney XD
+https://blackghost.live/play/zufree-506.php?c=289
+#EXTINF:-1, Fox
+
+#EXTINF:-1, FX
+https://blackghost.live/play/wistream-506.php?cat=latinos&ch=foxaction&k=b1ack-ghost&f=.m3u8
+#EXTINF:-1, Space
+https://blackghost.live/play/wistream-506.php?cat=latinos&ch=space&k=b1ack-ghost&f=.m3u8
+#EXTINF:-1, Golden
+https://blackghost.live/318/tvx.php?opcion=xtv31&c=1060
+#EXTINF:-1, Nat Geo
+https://blackghost.live/play/zufree-506.php?c=333
+#EXTINF:-1, Nat Geo Wild
+https://blackghost.live/play/tlvall-506.php?c=1507&f=.m3u8
+#EXTINF:-1, Nat Geo Kids
+http://blackghost.live/play/ftvall-506.php?c=1570&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1, Cinecanal
+https://blackghost.live/play/zufree-506.php?c=275
+#EXTINF:-1, Cinemax
+http://blackghost.live/play/ftvall-506.php?c=1518&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1,Universal
+https://blackghost.live/play/tlvall-506.php?c=1546&f=.m3u8
+#EXTINF:-1,Comedy Central
+
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w837113724.m3u8
+#EXTINF:-1,NICK_JR
+https://blackghost.live/play/zufree-506.php?c=335
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/501-5066201_los-simpson-logo-png-logo-the-simpsons-png.png",Los Simpson
+https://blackghost.live/play/zufree-506.php?c=8&f=.ts
+#EXTINF:-1,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+#EXTINF:-1,Tv Maná
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0117
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538318571_b364000_sleng.m3u8
+#EXTINF:-1, Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Paramount
+https://blackghost.live/play/wistream-506.php?cat=latinos&ch=paramountchannel&k=b1ack-ghost&f=.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV OP01
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?CANAISGLAU
+#EXTINF:-1,Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="110973" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2FzdGVyLmNhcmFjb2x0dl9pY29uXzE1MTg1MDU5NjBfMDIy/icon.png?w=170&fakeurl=1",Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1,  PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://n4bb-e2.revma.ihrhls.com/zc4342?rj-ttl=5&rj-tok=AAABeT0GabAAWZ92Lh_6vdUVbQ
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c9e63ecfa47e3153c723ee8",KISS FM
+https://n08b-e2.revma.ihrhls.com/zc185?rj-ttl=5&rj-tok=AAABeT06KuAAUi1HK1Ng_Ff7BA
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/4c/ce/10732/1/c175.png",Los 40
+https://17843.live.streamtheworld.com/LOS40_COLOMBIAAAC_SC
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qnmku3rspdmj.jpg",Amor y fé
+https://server.radiogs.org:7067/stream/1/
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qnmku3rspdmj.jpg",Amor y fé
+https://prod.radio-api.net/stations/now-playing?stationIds=amoryfe
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
+https://17563.live.streamtheworld.com/977_HITS_SC
