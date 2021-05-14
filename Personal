@@ -135,3 +135,5 @@ https://server.radiogs.org:7067/stream/1/
 https://prod.radio-api.net/stations/now-playing?stationIds=amoryfe
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
 https://17563.live.streamtheworld.com/977_HITS_SC
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
+https://edge224.stream.highwebmedia.com/live-edge/amlst:i_have_cookies-sd-d6458b191704fe89bf37642e633bf240bed14f0396d8dd637508a8bb0419643b_trns_h264/playlist.m3u8?rp=65938a72be5aaeb6a706591e379ffd1204036db40d69825e762f5356ed1f2783&u=wowhelp&t=%7B%22username%22%3A%22wowhelp%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1621003616%2C%22sig%22%3A%2226d5f78bf53754b5dd2aa6122d7beef4cf8da013cffea4d3ba8d1e58c143c7c4%22%2C%22room%22%3A%22i_have_cookies%22%7D
