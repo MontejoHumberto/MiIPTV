@@ -1,5 +1,13 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2FzdGVyLmNhcmFjb2x0dl9pY29uXzE1MTg1MDU5NjBfMDIy/icon.png?w=170&fakeurl=1",Caracol
 https://zi4ztlo997bfokqp.ezcdn654.net:8443/hls/xi6ufvw.m3u8?s=PZ9GHYjGV_g62HMehpRYYw&e=1620936935
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",COL: CARACOL
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/58371
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",COL: CARACOL INTERNACIONAL
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/3995
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",COL: CARACOL INTERNACIONAL ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17767
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",COL: CARACOL (ʜᴅ)
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17698
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
 http://tecnotv.club/thet/smartv.php?c=658_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
