@@ -741,9 +741,7 @@ https://tv.teleclub.xyz/live/XXX_BLONDE.m3u8
 
 
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
+https://edge252.stream.highwebmedia.com/live-edge/amlst:alice_kosmos-sd-9f7f0a262fb5007d4dc02f801fddd847fbda21e9ad05f006eb505e40837584e7_trns_h264/chunklist_w1660679987_b1148000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",Miami TV
@@ -1053,3 +1051,4 @@ http://tv.iptv5latino.cl:8080/movie/1wilmaru/mvzsGgWzmk/67269.mp4
 http://tv.iptv5latino.cl:8080/movie/1wilmaru/mvzsGgWzmk/67270.mp4
 #EXTINF:-1 group-title="VOD ADULTOS" tvg-logo="https://us.123rf.com/450wm/soifer/soifer1712/soifer171200049/91055139-dise%C3%B1o-de-s%C3%ADmbolo-de-ne%C3%B3n-de-noche-para-adultos-.jpg?ver=6",Selena Gomez
 http://tv.iptv5latino.cl:8080/movie/1wilmaru/mvzsGgWzmk/67271.mp4
+
