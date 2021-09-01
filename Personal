@@ -1,13 +1,5 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2FzdGVyLmNhcmFjb2x0dl9pY29uXzE1MTg1MDU5NjBfMDIy/icon.png?w=170&fakeurl=1",Caracol
 https://zi4ztlo997bfokqp.ezcdn654.net:8443/hls/xi6ufvw.m3u8?s=PZ9GHYjGV_g62HMehpRYYw&e=1620936935
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL
-http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/58371
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL INTERNACIONAL
-http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/3995
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL INTERNACIONAL ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17767
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL (ʜᴅ)
-http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17698
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/3986
 http://tecnotv.club/thet/smartv.php?c=658_&f=.m3u8
@@ -120,7 +112,6 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w837113724
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/726
 https://blackghost.live/play/zufree-719.php?c=335
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/501-7196201_los-simpson-logo-png-logo-the-simpsons-png.png",Los Simpson
-
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/64064
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -164,3 +155,11 @@ https://prod-34-83-172-126.wostreaming.net/sbsystems-kxolfmaac-ib-64?session-id=
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
 https://17563.live.streamtheworld.com/977_HITS_SC
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/58371
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL INTERNACIONAL
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/3995
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL INTERNACIONAL ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17767
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",CARACOL (ʜᴅ)
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17698
