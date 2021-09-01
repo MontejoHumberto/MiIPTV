@@ -9,22 +9,28 @@ http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17767
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xs482LJ/caracol.png",COL: CARACOL (ʜᴅ)
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/17698
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",RCN
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/3986
 http://tecnotv.club/thet/smartv.php?c=658_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.merca2.es/wp-content/uploads/2019/08/logohbo-696x392.jpg",HBO
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/1744
 https://blackghost.live/play/zufree-719.php?c=312
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/hbo2-logo-01-300x284.png",HBO 2
 https://blackghost.live/play/zufree-719.php?c=310
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg",HBO Signature
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/1748
 http://ipeteve.com/php/REGIO_PLAY_281119/regio22.php?c=hbosignature&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_family_small.gif",HBO Family
 https://blackghost.live/play/zufree-719.php?c=311
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLus
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/1747
 https://blackghost.live/play/zufree-719.php?c=309
 #EXTINF:-1,Warner Channel
 https://blackghost.live/play/zufree-719.php?c=359
 #EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png",ESPN
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/15735
 https://blackghost.live/play/25-719.php?c=1117
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0BbYqNQQTDI/maxresdefault.jpg",ESPN 2
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/58089
 http://blackghost.live/play/tvghd-719.php?id=espn-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 http://blackghost.live/play/tvghd-719.php?id=espn-3-en-vivo&f=.m3u8
@@ -39,8 +45,10 @@ https://www.stream2watch.is/frames/live-streaming.mp4
 #EXTINF:-1,TUDN
 https://blackghost.live/play/tlvall-719.php?c=267&f=.m3u8
 #EXTINF:-1,TNT Series
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/1761
 https://blackghost.live/play/zufree-719.php?c=352
 #EXTINF:-1,TNT
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/67559
 https://blackghost.live/play/zufree-719.php?c=351
 #EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png?w=300",SyFy
 http://tecnotv.club/thet/smartv.php?c=547_&f=.m3u8
@@ -60,10 +68,13 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1, CARTOON NETWORK
 
 #EXTINF:-1, Animal Planet
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/63131
 https://blackghost.live/play/zufree-719.php?c=259&f=.ts
 #EXTINF:-1, DISCOVERY CHANNEL
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/33727
 https://blackghost.live/play/zufree-719.php?c=283
 #EXTINF:-1, DISCOVERY TURBO
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/1161
 https://blackghost.live/play/zufree-719.php?c=286
 #EXTINF:-1, Discovery ID
 https://blackghost.live/play/zufree-719.php?c=321
@@ -73,9 +84,11 @@ https://blackghost.live/318/tvx.php?opcion=xtv29&c=48712
 https://blackghost.live/play/zufree-719.php?c=287
 #EXTINF:-1, Discovery Kids
 https://blackghost.live/318/tvx.php?opcion=xtv33&c=1469
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/15736
 #EXTINF:-1, Disney Junior
 https://blackghost.live/play/zufree-719.php?c=288
 #EXTINF:-1, Disney XD
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/33725
 https://blackghost.live/play/zufree-719.php?c=289
 #EXTINF:-1, Fox
 
@@ -104,9 +117,11 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w837113724.m3u8
 #EXTINF:-1,NICK_JR
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/726
 https://blackghost.live/play/zufree-719.php?c=335
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/501-7196201_los-simpson-logo-png-logo-the-simpsons-png.png",Los Simpson
 https://blackghost.live/play/zufree-719.php?c=8&f=.ts
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/64064
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,TLX
