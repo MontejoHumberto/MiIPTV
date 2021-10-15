@@ -32,13 +32,13 @@ http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/58089
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",The CW
 https://www.stream2watch.is/frames/live-streaming.mp4
 #EXTINF:-1,TUDN
-
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/33355
 #EXTINF:-1,TNT Series
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/1761
 #EXTINF:-1,TNT
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/67559
 #EXTINF:-1 tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png?w=300",SyFy
-
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/74087
 #EXTINF:-1,DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1,Popular TV Melilla
@@ -51,18 +51,17 @@ http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 #EXTINF:-1, ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1, CARTOON NETWORK
-
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/74053
 #EXTINF:-1, Animal Planet
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/63131
 #EXTINF:-1, DISCOVERY CHANNEL
-http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/33727
-https://blackghost.live/play/zufree-719.php?c=283
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/74057
 #EXTINF:-1, DISCOVERY TURBO
 http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/1161
 #EXTINF:-1, Discovery ID
-
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/74059
 #EXTINF:-1, Discovery Science
-
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/74060
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/topic/espn2#&gid=1&pid=2",Disney Channel
 
 #EXTINF:-1, Discovery Kids
