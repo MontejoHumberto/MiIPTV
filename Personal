@@ -91,6 +91,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w837113724.m3u8
+#EXTINF:-1 ,TELE RITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1,NICK_JR
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/501-7196201_los-simpson-logo-png-logo-the-simpsons-png.png",Los Simpson
