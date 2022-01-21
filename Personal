@@ -74,7 +74,11 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1, Golden
 
 #EXTINF:-1, Nat Geo
-
+https://edge-vod01-hr.cvattv.com.ar//live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/dash/NatGeoHD-video=530000.track_id=10000-init.mp4
+#EXTINF:-1, Nat Geo
+https://edge-vod01-hr.cvattv.com.ar//live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/dash/NatGeoHD-video=530000.track_id=10000-6679877860734.mp4
+#EXTINF:-1, Nat Geo
+https://edge-vod01-hr.cvattv.com.ar//live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/dash/NatGeoHD-audio_20001=144800.track_id=20001-10687804289407.mp4
 #EXTINF:-1, Nat Geo Wild
 
 #EXTINF:-1, Nat Geo Kids
