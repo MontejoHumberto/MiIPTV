@@ -133,5 +133,15 @@ https://n39a-e2.revma.ihrhls.com/zc185?rj-ttl=5&rj-tok=AAABeZD8mIsAHWC5aKN3ZmLty
 https://17843.live.streamtheworld.com/LOS40_COLOMBIAAAC_SC
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/7433.v10.png",Mega 96.3
 https://live.wostreaming.net/direct/sbsystems-kxolfmaac-ib-64?source=onlineradiobox
+
+
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/7433.v10.png",La Mega
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_MEGA_BOGAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/7433.v10.png",La Mega
+https://21933.live.streamtheworld.com/LA_MEGA_BOGAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/7433.v10.png",La Mega
+https://onlineradiobox.com/playerror/co.lamega909?stream=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FLA_MEGA_BOGAAC.aac%3Fdist%3Donlineradiobox&error=ok
+
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/8d/76/3600/1/c300.png",Today's Hits Radio
 https://17563.live.streamtheworld.com/977_HITS_SC
